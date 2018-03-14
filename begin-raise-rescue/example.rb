@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# begin-raise-rescue.rb
+# example.rb
 # @author Seong Yong-ju ( @sei40kr )
 
 begin
